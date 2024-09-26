@@ -1,0 +1,10 @@
+project Main is
+    -- Location for Source directory
+    for Source_Dirs use ("controller");
+    -- Location for the compiled ada code (.ali files)
+    for Object_Dir use ("controller/.ali/");
+    -- Location for the Executable directory
+    for Exec_Dir use ("x86_64");
+    -- Main file
+    for Main use ("main.adb");
+end Main;
