@@ -1,0 +1,2 @@
+/usr/bin/ar qc librezlib.a CMakeFiles/rezlib.dir/lib/rezlib.c.o
+/usr/bin/ranlib librezlib.a

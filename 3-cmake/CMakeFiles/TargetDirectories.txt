@@ -1,0 +1,4 @@
+/home/rezvee/Projects/makefiles/3-cmake/CMakeFiles/rezlib.dir
+/home/rezvee/Projects/makefiles/3-cmake/CMakeFiles/main.dir
+/home/rezvee/Projects/makefiles/3-cmake/CMakeFiles/edit_cache.dir
+/home/rezvee/Projects/makefiles/3-cmake/CMakeFiles/rebuild_cache.dir
